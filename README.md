@@ -1,4 +1,4 @@
-# Data-analysis-of-movie-review-websites
+# Analysis of Fandango's ratings versus other site ratings to find if Fandango had a bias towards rating movies better to sell more tickets
 Overview
 If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets. Do they have a bias towards rating movies higher than they should be rated?
 
